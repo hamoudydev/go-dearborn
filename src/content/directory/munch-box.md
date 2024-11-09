@@ -3,7 +3,8 @@ layout: ../../layouts/Card.astro
 title: The Munch Box
 description: This is an example listing to get you started.
 tags:
-  - food
+  - food truck
+  - late night
 card_image: /public/directory/munch-box.jpg
 ---
 

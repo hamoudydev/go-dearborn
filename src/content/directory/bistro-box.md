@@ -3,7 +3,9 @@ layout: ../../layouts/Card.astro
 title: The Bistro Box
 description: This is an example listing to get you started.
 tags:
-  - food
+  - italian
+  - food truck
+  - late night
 card_image: /public/directory/bistro-box.jpg
 ---
 

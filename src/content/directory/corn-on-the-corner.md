@@ -3,7 +3,12 @@ layout: ../../layouts/Card.astro
 title: Corn On The Corner
 description: Feeling Corny?
 tags:
-  - food
+  - food truck
+  - burgers
+  - tacos
+  - chicken
+  - bowls
+  - late night
 card_image: /public/directory/corn-on-the-corner.png
 ---
 

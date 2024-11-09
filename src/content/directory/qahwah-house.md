@@ -3,7 +3,9 @@ layout: ../../layouts/Card.astro
 title: Qahwah House
 description: This is an example listing to get you started.
 tags:
-  - food
+  - food truck
+  - late night
+  - coffee
 card_image: /public/directory/qahwah.jpg
 ---
 

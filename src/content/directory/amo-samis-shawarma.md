@@ -3,7 +3,9 @@ layout: ../../layouts/Card.astro
 title: Amo Sami's Shawarma
 description: This is an example listing to get you started.
 tags:
-  - food
+  - shawarma
+  - bowls
+  - food truck
 card_image: /public/directory/amo-samis.jpg
 ---
 

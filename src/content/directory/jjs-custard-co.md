@@ -3,7 +3,9 @@ layout: ../../layouts/Card.astro
 title: JJs Custard Company
 description: This is an example listing to get you started.
 tags:
-  - food
+  - food truck
+  - late night
+  - desserts
 card_image: /public/directory/custard-co2.jpg
 ---
 

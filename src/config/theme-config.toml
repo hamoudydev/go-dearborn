@@ -1,7 +1,7 @@
 [general]
-title = "Minted Directory"
+title = "Big Hamz Reviews"
 logo = ""
-iconLogo = "tabler:leaf"
+iconLogo = "tabler:tools-kitchen-2"
 
 [general.seo]
 name = "Nuxt Starters"
@@ -9,7 +9,7 @@ description = "Find the best nuxt starter kits."
 url = "https://nuxtstarters.com"
 
 [directory.search]
-placeholder = "Search among {0} tools"
+placeholder = "Search among {0} places"
 showCount = true
 icon = "tabler:bow"
 
@@ -46,14 +46,75 @@ labelForCard = "Featured ✨"
 title = "{0} Apps"
 
 [[directory.tags]]
-key = "clothing"
-name = "Clothing"
+key = "subs/wraps"
+name = "Subs/Wraps"
 color = "blue"
 
 [[directory.tags]]
-key = "food"
-name = "Food"
+key = "burgers"
+name = "Burgers"
 color = "green"
+
+[[directory.tags]]
+key = "chicken"
+name = "Chicken"
+color = "orange"
+
+[[directory.tags]]
+key = "italian"
+name = "Italian"
+color = "red"
+
+[[directory.tags]]
+key = "tacos"
+name = "Tacos"
+color = "green"
+
+[[directory.tags]]
+key = "coffee"
+name = "Coffee"
+color = "brown"
+
+[[directory.tags]]
+key = "bowls"
+name = "Bowls"
+color = "green"
+
+[[directory.tags]]
+key = "shawarma"
+name = "Shawarma"
+color = "pink"
+
+[[directory.tags]]
+key = "desserts"
+name = "Desserts"
+color = "pink"
+
+[[directory.tags]]
+key = "date night"
+name = "Date Night"
+color = "green"
+
+[[directory.tags]]
+key = "family night"
+name = "Family Night"
+color = "pink"
+
+[[directory.tags]]
+key = "kabob"
+name = "Kabob"
+color = "pink"
+
+[[directory.tags]]
+key = "late night"
+name = "Late Night"
+color = "black"
+
+[[directory.tags]]
+key = "food truck"
+name = "Food Truck"
+color = "black"
+
 
 [[directory.tags]]
 key = "timer"

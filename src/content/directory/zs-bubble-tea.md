@@ -3,7 +3,8 @@ layout: ../../layouts/Card.astro
 title: Z's Bubble Tea
 description: This is an example listing to get you started.
 tags:
-  - food
+  - food truck
+  - late night
 card_image: /public/directory/zs-bubble-tea.jpg
 ---
 
