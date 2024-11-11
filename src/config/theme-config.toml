@@ -46,8 +46,8 @@ labelForCard = "Featured ✨"
 title = "{0} Apps"
 
 [[directory.tags]]
-key = "subs/wraps"
-name = "Subs/Wraps"
+key = "subs and wraps"
+name = "Subs and Wraps"
 color = "blue"
 
 [[directory.tags]]

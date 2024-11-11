@@ -14,6 +14,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://bestmeditationapps.com",
+  site: "https://go.dearborneats.com",
   integrations: [vue(), tailwind(), themeConfig(), mdx(), icon(), sitemap()],
 });
